@@ -70,7 +70,7 @@ A web-based gaming platform where players can enjoy Tic-Tac-Toe, with more games
 
 ---
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/LidonJacob">
@@ -79,12 +79,9 @@ A web-based gaming platform where players can enjoy Tic-Tac-Toe, with more games
   <a href="https://www.linkedin.com/in/lidon-thuranira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lidonthuranira7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
+</p><p align="center">
+  📧 **Email:** lidonthuranira7@gmail.com
+</p><p align="center">
   💬 Open to learning, collaboration, and interesting projects.
 </p>
 
